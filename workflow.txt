@@ -1,0 +1,6 @@
+in main.py
+1.load image
+2.convert to array
+3. apply k means
+4. rebuild image
+5.show before/after

@@ -1,0 +1,4 @@
+#1. numpy
+#2. matplotlib
+#3. scikit-learn
+#4. pillow
