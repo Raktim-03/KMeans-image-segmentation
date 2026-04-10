@@ -35,11 +35,6 @@ link : https://kmeans-image-segmentation-cmzj6jqpkypf9k5cosjn9w.streamlit.app/
 
 ---
 
-## Screenshots
-
-(Add images here — very important)
-
----
 
 ## Installation
 
