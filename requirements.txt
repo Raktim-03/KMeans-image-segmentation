@@ -2,3 +2,6 @@
 #2. matplotlib
 #3. scikit-learn
 #4. pillow
+
+# to run normally : "python main.py"
+# to run on streamlit : "streamlit run app.py"
