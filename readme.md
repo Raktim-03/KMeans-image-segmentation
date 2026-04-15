@@ -4,7 +4,7 @@ A web app that performs **image segmentation using K-Means clustering**. Upload 
 
 ## Live Demo
 
-link : https://https://kmeans-image-segmentation-cmzj6jqpkypf9k5cosjn9w.streamlit.app/
+link : https://kmeans-image-segmentation-cmzj6jqpkypf9k5cosjn9w.streamlit.app/
 
 ---
 
